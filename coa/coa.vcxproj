@@ -127,9 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="coa11_char2.cpp" />
     <ClCompile Include="coa11_main.cpp" />
     <ClCompile Include="coa11_char1.cpp" />
-    <ClCompile Include="coa11_char2.cpp" />
+    <ClCompile Include="coa11_char3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
